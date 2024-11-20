@@ -1,0 +1,11 @@
+.cache/
+.elfeed/
+elpa/
+transient/
+.mc-lists.el
+custom.el
+history
+org-roam.db
+places
+recentf
+tabsession.el
